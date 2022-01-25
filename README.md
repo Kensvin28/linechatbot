@@ -1,4 +1,5 @@
-This is a project I made to help my community get a daily devotion everyday. If there are any questions, feel free to contact me.
+This is a project I made to help my community get a daily devotion everyday.
+If there are any questions regarding LINE API, feel free to contact me 😊.
 
 Quick reference for Line Chatbot: youtube.com/watch?v=TzZM1BtGPtM
 
