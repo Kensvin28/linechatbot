@@ -1,7 +1,7 @@
 This is a project I made to help my community get a daily devotion everyday.
 If there are any questions regarding LINE API, feel free to contact me at Instagram: [@kens.vin](https://instagram.com/kens.vin) 😊.
 
-[Explanation about the Web Scraping technique in this project](https://medium.com/@kevinma28/daily-devotion-web-scraping-using-python-f6d6431af167)
+[Explanation about the web scraping technique in this project](https://medium.com/@kevinma28/daily-devotion-web-scraping-using-python-f6d6431af167)
 
 [Quick reference for Line Chatbot](https://youtube.com/watch?v=TzZM1BtGPtM)
 
