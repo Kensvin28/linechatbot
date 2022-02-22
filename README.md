@@ -9,6 +9,8 @@ If there are any questions regarding LINE API, feel free to contact me 😊.
 
 [Line API Documentation for Python](https://github.com/line/line-bot-sdk-python)
 
+[Explanation about the Web Scraping technique in this project](https://medium.com/@kevinma28/daily-devotion-web-scraping-using-python-f6d6431af167)
+
 # Steps to launch your LINE chatbot:
 
 ### 1. [Create a LINE developer account](https://developers.line.biz/en/docs/line-developers-console/login-account/#register-as-developer)
